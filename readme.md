@@ -1,5 +1,8 @@
 # Procedual Texture in Unity
 
+The English document is here.    
+[readme_en.md](./readme_en.md).  
+
 UnityでProcedual Texture表現を行うShaderです。    
 ![Procedual Texture 01](./images/procedual_01.jpg)    
 Procedual Textureとは、Solid Textureとも呼ばれる、
